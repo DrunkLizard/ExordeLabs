@@ -70,7 +70,7 @@ screen -S exorde
  * Testnet cüzdanı kullanın
 
 ```
-docker run -it exorde-cli -m metamask -l 2
+docker run -it exorde-cli -m 0x98E7332289E131C489b7504ef40521daCC0D1DaE -l 2
 ```
 
 ## Ve gördüğünüz gibi çalışıyor:
